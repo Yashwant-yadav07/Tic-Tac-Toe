@@ -30,12 +30,14 @@ Everything — structure, styling, and script — is included inside this single
 
 ## 🚀 How to Run
 
-1. Download the project or clone the repository
+1. Download the project or clone the repository:
 
+   ```bash
+   git clone https://github.com/Yashwant-yadav07/Tic-Tac-Toe.git
    ```
-   git clone <your-repository-link>
-   ```
+
 2. Open the **tictactoe.html** file in any web browser.
+
 3. Start playing! 🎉
 
 ---
